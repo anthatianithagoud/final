@@ -146,12 +146,12 @@
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
-			
-    <plugin>
-      <groupId>org.sonarsource.scanner.maven</groupId>
-      <artifactId>sonar-maven-plugin</artifactId>
-      <version>3.9.9</version> <!-- latest stable version -->
-    </plugin>
+			<plugin>
+    				<groupId>org.sonarsource.scanner.maven</groupId>
+    				<artifactId>sonar-maven-plugin</artifactId>
+    				<version>3.9.1.2184</version>
+			</plugin>	
+
 
 
 			
